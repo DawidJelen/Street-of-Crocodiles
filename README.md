@@ -1,2 +1,2 @@
 # Street-of-Crocodiles
- [Version 1] (https://DawidJelen.github.io/Street-Of-Crocodiles)
+ [Version1] (https://DawidJelen.github.io/Street-Of-Crocodiles)
